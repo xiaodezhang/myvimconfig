@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='E:/workstation/OspDemoClient-Qt/OspDemoClient-Qt'
-let g:netrw_dirhist_2='E:/workstation/OspDemoClient-Qt/OspDemoClient-Qt/GeneratedFiles'
-let g:netrw_dirhist_3='E:/workstation/OspDemoClient-Qt/OspDemoClient-Qt'
-let g:netrw_dirhist_4='E:/workstation/OspDemoClient-Qt _2/OspDemoClient-Qt'
-let g:netrw_dirhist_5='E:/workstation/OspDemoClient-Qt _2/osptest/source'
-let g:netrw_dirhist_6='E:/workstation/OspDemoClient-Qt _2/OspDemoClient-Qt'
-let g:netrw_dirhist_7='E:\workstation\learngit\test'
